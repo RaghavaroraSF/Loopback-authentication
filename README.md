@@ -1,1 +1,1 @@
-# Loopback-authentication
+# Loopback-authorization
